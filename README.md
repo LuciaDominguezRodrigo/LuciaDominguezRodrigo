@@ -84,9 +84,6 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciaDominguezRodrigo&show_icons=true&theme=radical)
 
 <br>
 
