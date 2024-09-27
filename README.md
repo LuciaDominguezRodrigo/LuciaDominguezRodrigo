@@ -86,12 +86,14 @@
 <h3>Statistical Data :</h3>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaDominguezRodrigo&layout=compact&theme=tokyonight)
-
-<br>
-
-![LuciaDominguezRodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciaDominguezRodrigoM&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuciaDominguezRodrigo&show_icons=true&theme=radical)
 
 <br>
 
 ![LuciaDominguezRodrigo's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=LuciaDominguezRodrigo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaDominguezRodrigo&layout=compact&theme=tokyonight)
+
+
