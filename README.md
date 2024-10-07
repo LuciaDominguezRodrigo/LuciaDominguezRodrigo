@@ -7,7 +7,7 @@
 
 - ✔️ I’m currently learning good practices while coding for future proyects
   
-- ✔️  am currently learning agile and SCRUM methodologies to organize my projects effectively, and know teamwork methodologies.
+- ✔️ I'm currently learning agile and SCRUM methodologies to organize my projects effectively, and know teamwork methodologies.
 
 - 📧 How to reach me **lucia.dominguez.rodrigo@gmail.com**
 
