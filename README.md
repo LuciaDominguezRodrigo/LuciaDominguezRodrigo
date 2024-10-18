@@ -70,9 +70,6 @@
     <a href="http://www.uml.org" target="_blank"> <img
             src="https://user-images.githubusercontent.com/117299908/217129798-db6b374a-8805-498f-b168-184479f0a071.png"
             alt="uml" width="40" height="40" /> </a>
-    <a href="https://es.wikipedia.org/wiki/SQL" target="_blank"> <img 
-            src="https://github.com/MiguelAngelSM/MiguelAngelSM/assets/117299908/ffcb467b-cbd4-4ab6-a307-0abc189bc446"
-            alt="SQL" width="40" height="40" /> </a>
     <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" /> </a>
