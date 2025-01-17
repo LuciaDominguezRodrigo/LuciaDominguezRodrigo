@@ -84,7 +84,7 @@
 
 <br>
 
-![LuciaDominguezRodrigo's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=LuciaDominguezRodrigo&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciaDominguezRodrigo&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"/>
 
 
