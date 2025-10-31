@@ -151,6 +151,23 @@
   🔗 <a href="https://github.com/LuciaDominguezRodrigo/Airport" target="_blank">View on GitHub</a>
 </p>
 
+<hr>
+
+<h4 align="left">🔄 C-to-Pascal Translator</h4>
+<p align="left">
+  The <b>C-to-Pascal Translator</b> is a programming tool developed to automatically convert code written in <b>C</b> into <b>Pascal</b>.  
+  It supports a wide range of C syntax and constructs, translating them into equivalent Pascal code while preserving the program's logic and structure.
+</p>
+
+<p align="left">
+  The project focuses on parsing, syntax analysis, and automated code generation, helping students and developers understand differences between programming languages and facilitating cross-language learning.
+</p>
+
+<p align="left">
+  🔗 <a href="https://github.com/LuciaDominguezRodrigo/C-to-Pascal-Translator" target="_blank">View on GitHub</a>
+</p>
+
+
 <br>
 
 <h3>📊 Statistics:</h3>
