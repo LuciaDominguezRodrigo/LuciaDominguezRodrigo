@@ -12,9 +12,10 @@
 <h3 align="left">🔎 Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/luc%C3%ADa-dom%C3%ADnguez-rodrigo-418321289/" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="35" height="35" style="margin-right: 10px;" />
     </a>
 </p>
+
 
 <br>
 
@@ -42,6 +43,9 @@
     <a href="https://www.docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" /></a>
     <a href="https://github.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40" /></a>
     <a href="http://www.uml.org" target="_blank"><img src="https://user-images.githubusercontent.com/117299908/217129798-db6b374a-8805-498f-b168-184479f0a071.png" alt="uml" width="40" height="40" /></a>
+    <a href="https://www.mysql.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+</a>
     <a href="https://www.cockroachlabs.com/" target="_blank">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuiLpONeaMpYlGiAXBahj6hneSfqalpmRvg&s" 
        alt="cockroachdb" width="40" height="40" />
