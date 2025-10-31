@@ -167,12 +167,39 @@
   🔗 <a href="https://github.com/LuciaDominguezRodrigo/C-to-Pascal-Translator" target="_blank">View on GitHub</a>
 </p>
 
+<hr>
+
+<h4 align="left">🧪 Software Quality 2025 - Group 1</h4>
+<p align="left">
+  This project was developed as part of the <b>Software Quality</b> course.  
+  It focuses on applying software quality methodologies and best practices to ensure reliable, maintainable, and efficient code.
+</p>
+
+<p align="left">
+  The project includes <b>testing at all levels</b> (unit, integration, and system tests), thorough documentation, and a <b>CI/CD pipeline using GitHub Actions</b> to automate building, testing, and deployment.  
+  This ensures high-quality software delivery, streamlined team workflow, and consistent process automation.
+</p>
+
+<p align="left">
+  🔗 <a href="https://github.com/MarJ03/calidad-software-2025-grupo-1" target="_blank">View on GitHub</a>
+</p>
+
 
 <br>
 
-<h3>📊 Statistics:</h3>
+<!-- Current Stats card -->
+<br>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Current Stats</h2>
 
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaDominguezRodrigo&langs_count=8&layout=compact&theme=merko&hide_border=false" alt="Top Languages" />
-</p>
+<div>
+  <a href="https://github.com/LuciaDominguezRodrigo">
+    <img alt="Lucía´s streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=LuciaDominguezRodrigo&theme=merko&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
+  </a>
+  <a href="https://github.com/LuciaDominguezRodrigo">
+    <img src="https://github-readme-stats.vercel.app/api?username=LuciaDominguezRodrigo&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
+  </a>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuciaDominguezRodrigo&radius=16&theme=merko&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" align="center"/>
