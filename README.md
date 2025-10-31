@@ -112,7 +112,7 @@
 
 <h4 align="left">📅 EventCrafters (webapp11)</h4>
 <p align="left">
-  EventCrafters is a comprehensive web application developed for coursework at the Polytechnic University, designed to manage events, users, and reviews.  
+  EventCrafters is a comprehensive web application developed for coursework at the URJC, designed to manage events, users, and reviews.  
   It features a multi-phase architecture: server-generated HTML & AJAX frontend, RESTful API backend, and full SPA frontend in Angular.
 </p>
 <p align="left">
