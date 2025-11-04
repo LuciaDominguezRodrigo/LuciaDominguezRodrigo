@@ -32,6 +32,10 @@
     <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40" /></a>
     <a href="https://getbootstrap.com/" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+</a>
+
 </p>
 
 <h4 align="left">Others</h4>
