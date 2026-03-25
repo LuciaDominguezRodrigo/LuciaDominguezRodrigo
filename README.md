@@ -2,7 +2,7 @@
 
 <h3 align="left">🙋 About me:</h3>
 
-- ✔️ I’m currently studying Software Engineering and Computer Science  
+- ✔️ I’m currently getting experience in AI ecosystems
 - ✔️ I’m learning best coding practices for future projects  
 - ✔️ I'm learning agile and SCRUM methodologies to organize projects effectively and know teamwork methodologies  
 - 📧 How to reach me: **lucia.dominguez.rodrigo@gmail.com**
