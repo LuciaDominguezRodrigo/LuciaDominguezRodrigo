@@ -2,9 +2,9 @@
 
 <h3 align="left">🙋 About me:</h3>
 
-- ✔️ I’m currently getting experience in AI ecosystems
-- ✔️ I’m learning best coding practices for future projects  
-- ✔️ I'm learning agile and SCRUM methodologies to organize projects effectively and know teamwork methodologies  
+- 🚀 **Salesforce Agentforce and Data 360 Architect** specializing in **AI Ecosystems**
+- 🤖 Building autonomous agents and connecting agentic systems through custom REST APIs (Heroku, Node, Spring)
+- 💡 Co-Founder & Team Leader at **OncoCoders**, uniting healthcare and tech using Agile/SCRUM
 - 📧 How to reach me: **lucia.dominguez.rodrigo@gmail.com**
 
 <br>
@@ -18,7 +18,21 @@
 
 
 <br>
-
+<h4 align="left">Salesforce & Data</h4>
+<p align="left">
+    <a href="https://www.salesforce.com/agentforce/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="40" height="40" />
+    </a>
+    <a href="https://www.heroku.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://www.cockroachlabs.com/" target="_blank">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuiLpONeaMpYlGiAXBahj6hneSfqalpmRvg&s" alt="cockroachdb" width="40" height="40" />
+    </a>
+</p>
 <h3 align="left">💻 Languages and Tools:</h3>
 
 <h4 align="left">Web Development</h4>
@@ -86,13 +100,13 @@
 
 <hr>
 
-<h4 align="left">🔧 AgentFrontend</h4>
+<h4 align="left">🔧 AgentFrontend (Agentforce Integration)</h4>
 <p align="left">
-  AgentFrontend is a custom frontend application that connects an Agenforce agent through the <b>Salesforce API</b>.  
-  The backend and deployment are managed on <b>Heroku</b>, providing a seamless and reliable interface for the agent integration.
+  Custom frontend application integrated with <b>Salesforce Agentforce</b> via the <b>Salesforce API</b>. 
+  It provides an intuitive interface to interact with autonomous agents, with backend services and deployment seamlessly orchestrated on <b>Heroku</b>.
 </p>
 <p align="left">
-  The project is designed with flexibility and scalability in mind, ensuring smooth communication between frontend and backend services.
+  Designed under scalable architectural patterns, it highlights real-time data flows and agentic AI capabilities for modern Salesforce ecosystems.
 </p>
 <p align="left">
   🔗 <a href="https://github.com/LuciaDominguezRodrigo/agentfrontend" target="_blank">View on GitHub</a>
