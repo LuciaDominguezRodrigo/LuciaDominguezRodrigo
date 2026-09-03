@@ -54,6 +54,7 @@
 
 <h4 align="left">Others</h4>
 <p align="left">
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40" /></a>
     <a href="https://www.java.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
     <a href="https://www.python.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
     <a href="https://isocpp.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
@@ -79,7 +80,19 @@
 </p>
 
 <br>
+<h4 align="left">🦷 Predictive Models & OdontoGest (Double Degree Final Thesis)</h4>
+<p align="left">
+  Comprehensive dual-degree thesis project for <b>Software Engineering</b> and <b>Computer Engineering</b> at URJC. 
+  It combines data analytics with software engineering by integrating predictive models built in <b>R</b> with an end-to-end dental management solution.
+</p>
+<p align="left">
+  The project required complex <b>software reengineering</b> to modernize systems, implement predictive health models, and optimize clinical workflows with a strong focus on software architecture and data processing.
+</p>
+<p align="left">
+  🔗 <a href="https://github.com/LuciaDominguezRodrigo/Predictive-Models-and-OdontoGest" target="_blank">View on GitHub</a>
+</p>
 
+<hr>
 <h4 align="left">🧬 OncoCoders</h4>
 <p align="left">
   <b>OncoCoders</b> is an ongoing multidisciplinary project developed by students from the <b>Rey Juan Carlos University</b> and the <b>Polytechnic University of Barcelona</b>.  
